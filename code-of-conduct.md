@@ -1,5 +1,5 @@
 # Student Code of Conduct
-[Back to Course Guidelines](../../README.md#course-guidelines)
+[Back to Course Guidelines](/../../)
 
 ## Our Pledge
 

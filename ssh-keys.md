@@ -1,4 +1,5 @@
 ### Generating and Adding Your SSH Key
+[Back to Course Guidelines](/../../)
 
 You will want to add your SSH key to both GitLab (vanderbilt.bootcampcontent.com) and GitHub (github.com).
 

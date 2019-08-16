@@ -1,5 +1,5 @@
 ## Plagiarism
-[Back to Course Guidelines](../../README.md#course-guidelines)
+[Back to Course Guidelines](/../../)
 
 
 We want you to get the most out of the Boot Camp. It is imperative that you put your best individual effort  into all course deliverables. This includes assignments, activities, projects, and any additional submissions. In the end, these will be utilized to showcase your own work and capabilities as you enter the job search.

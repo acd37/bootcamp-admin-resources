@@ -1,5 +1,5 @@
 ## Student Support
-[Back to Course Guidelines](../../README.md#course-guidelines)
+[Back to Course Guidelines](/../../)
 
 1. [Class Videos](#class-videos)
 2. [Tutoring](#tutoring-details)

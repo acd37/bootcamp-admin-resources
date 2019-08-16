@@ -1,5 +1,5 @@
 ## Attendance
-[Back to Course Guidelines](../../README.md#course-guidelines)
+[Back to Course Guidelines](/../../)
 
 Attendance must be maintained at a **95%** rate. (You can miss **no more** than a total of **4 classes**.)
 

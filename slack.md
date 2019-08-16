@@ -1,11 +1,11 @@
 ## Slack
-[Back to Course Guidelines](../../README.md#course-guidelines)
+[Back to Course Guidelines](/../../)
 
 ### How to use slack
 
 ##### Asking Questions: 
 
-Within the `#techincal-questions` or `#homework` channel post your question with the following information:
+When posting a request for help, please include the following pieces of information:
 
 1. What is the issue you are encountering? 
 2. What have you attempted?
@@ -38,7 +38,7 @@ Within the `#techincal-questions` or `#homework` channel post your question with
 
 
 ### Channels
-Channels are the main source of group communication in Slack. There are two kinds: privaet and public.
+Channels are the main source of group communication in Slack. There are two kinds: private and public.
 
 #### Public channels
 Public Channels are indicated by the `#` symbol. You will find them on the navbar located on the left-hand side of Slack (both online and on the desktop app). As inidicated by the name, everyone in your slack workspace will be able to see messages in these channels. 
@@ -119,46 +119,22 @@ When you click on the `Code or Text` snippet, you will be shown a pop-up window.
 
 ### Coding Bootcamp Channels
 
-#### _coding-bootcamp
-This is the "main" channel. The instructors will post most of the content in this channel. Any class information or files slacked out by instructors can be found here. 
-
 #### general
-General is where you should post a message if your message does not fit into any of the other categories, but is still relevant to the class.
+This is the "main" channel. Any class information or files slacked out by instructors can be found here. 
 
-#### code-drill-feedback
-If you find any issues with the code drills, whether they be typos, unclear instructions, or maybe they're just too hard or too easy, post those concerns in this channel. That way the code drills can be updated and improved for everyone!
-
-#### code-drills
-This is a place to ask fellow students about content in the code drills. Perhaps a given topic is still confusing you and you want to understand more about it. This is the place to post any comments or suggestions regarding the code drills directed towards your fellow students.
+#### mw-class/tth-class/sat-class
+The instructors will post most of the content in this channel.
 
 #### coding-career
 This is a place where career services, your Student Success Manager (SSM) will post about career services or career opportunities. Students can also post to this channel with any information or questions relevant to career services and/or opportunities.
 
-#### homework
-This channel is used specifically for homework assignments. If you have any insights or questions regarding the current, or even past, assignments, post them here. 
-
-#### professional-outings
-This is a place to share any professional/networking events you have heard about or plan on attending. These outings should be related to tech or tech careers.
+#### ask-the-class
+This channel is used specifically for homework assignments and other technical related questions. If you have any insights or questions regarding the current, or even past, assignments, post them here. 
 
 #### random
 As you can gather from the name, this is a channel for random content. Anything you want to share that doesn't fit in any of the other channels, or is just plain silly, should go here. 
 
-#### remote-class
-If you are attending class remotely, and would like to post any questions or comments about the remote class, post those here. 
-
 #### resources
 Post any resources you find here! If you find any useful libraries, stack overflow posts, tools etc... that you think are worthy of sharing with your classmates, post them here. 
-
-#### social-outings
-Want to grab some food after class? Want to invite your classmates to go see a movie? Post those outings here. 
-
-#### study-group
-If you'd like to find or organize any study groups for the class, visit this channel. 
-
-#### technical questions
-This channel is for technical questions. Note that if your question came from a homework or a code drill, you should probably post it in those channels.
-
-### 0 Channels
-The "0-firstName-lastName" channels are private channels. At the beginning of the entire class, you will join one of these channels along with your instructor and the TAs. This is where you will most often communicate with the instructional team.
 
 Additionally, when you start a group project, you will also be invited to one of these channels along with your team members and the insturctional staff.
