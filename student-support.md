@@ -14,7 +14,6 @@
 [Back to top](#student-support)
 
 Supplemental videos will be made available after lessons to help support your learning.
-Class Video Link: [Video Link](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx?folderID=150c2411-c209-4759-a924-a9f1005fbe01)
 
 
 
@@ -77,18 +76,12 @@ Reserve one 15 minute session with TAs / day.
 Reserve a 15 minute One-to-One session with a TA:
 
 
-[TA One-to-One Availability Link](<LINK>)
-
-[TA One-to-One Availability Link](<LINK>)
-
-
-
 <hr>
 
 ## Important Links And Notes
 [Back to top](#student-support)
 
-[Slack](<LINK>)
+[Slack](https://slack.com/downloads)
 > Used for communication, collaboration, and exploration
 
 
