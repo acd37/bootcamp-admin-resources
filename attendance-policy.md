@@ -5,7 +5,7 @@
 Students must maintain **95% attendance**.
 
 Absences permitted: **4 classes**.
-Remote sesions permitted: **4 classes** with _prior approval_.
+Remote sesions permitted: **4 classes** with _prior approval only_.
 
 Students attending remotely must do the following:
 
@@ -24,8 +24,7 @@ Remote session attendance shouldn't replace in-person attendance. Instead, it sh
 Remote attendance during project weeks isn't permitted, as students must participate in and complete 100% of project work to meet graduation criteria.
 
 ## Late Arrival or Early Departure Policy
-
-3 late arrivals or 3 early departures add up to a single absence.
+Repeated late arrivals and/or early departures may count towards your absence total.
 
 A late arrival or early departure means arriving more than 10 minutes late or leaving more than 10 minutes early from a session.
 
