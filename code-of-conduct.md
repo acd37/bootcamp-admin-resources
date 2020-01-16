@@ -4,35 +4,39 @@
 
 ## Our Pledge
 
-In the interest of fostering an open and welcoming environment, we as members of a classroom community pledge to making participation in our projects and our community a harassment-free experience for everyone, regardless of age, disability, ethnicity, gender identity and expression, level of experience, nationality, personal appearance, race, religion, or sexual identity and orientation.
+In the interest of fostering an open and welcoming environment, we as members of a classroom community pledge to make participation in our projects and our community a harassment-free experience for everyone, regardless of age, disability, ethnicity, gender identity and expression, level of experience, nationality, personal appearance, race, religion, or sexual identity and orientation.
 
 ## Our Standards
 
-Examples of behavior that contributes to creating a positive environment
-include:
+Behavior that contributes to a positive environment
+includes:
 
 -   Using welcoming and inclusive language
+
 -   Being respectful of differing viewpoints and experiences
+
 -   Gracefully accepting constructive criticism
--   Focusing on what is best for the community
+
+-   Focusing on what's best for the community
+
 -   Showing empathy towards other community members
 
-Examples of unacceptable behavior by participants include:
+Unacceptable behavior includes:
 
--   The use of sexualized language or imagery and unwelcome sexual attention or
-    advances
--   Trolling, insulting/derogatory comments, and personal or political attacks
--   Public or private harassment
--   Publishing others' private information, such as a physical or electronic
-    address, without explicit permission
--   Other conduct which could reasonably be considered inappropriate in a
-    professional setting
+-   Using sexualized language or imagery and unwelcome sexual attention or advances
+
+-   Trolling, making insulting or derogatory comments, and making personal or political attacks
+
+-   Harrassing someone in public or private
+
+-   Publishing others' private information, such as a physical or electronic address, without explicit permission
+
+-   Engaging in other conduct that could reasonably be considered inappropriate in a professional setting
 
 ## Scope
 
-This Code of Conduct applies both within classroom spaces and in public spaces when an individual is representing the classroom community for homework or course review or project work.
+This Code of Conduct applies both in classroom spaces and in public spaces when an individual is representing the classroom community for homework, course review, or project work.
 
 ## Enforcement
 
-Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by contacting your SSM, TAs, or Instructor. All complaints will be reviewed and investigated and will result in a response that
-is deemed necessary and appropriate to the circumstances.
+You may report instances of abuse, harassment, or otherwise unacceptable behavior by contacting your SSM, TAs, or instructor. We will review and investigate all complaints and will offer a response deemed necessary and appropriate to the circumstances.
