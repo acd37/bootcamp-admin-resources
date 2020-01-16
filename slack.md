@@ -1,17 +1,22 @@
 ## Slack
+
 [Back to Course Guidelines](/../../)
 
-### How to use slack
+### How to Use Slack
 
-##### Asking Questions: 
+#### Asking Questions
 
-When posting a request for help, please include the following pieces of information:
+When posting a request for help on Slack, please include the following information:
 
-1. What is the issue you are encountering? 
+1. What issue are you encountering?
+
 2. What have you attempted?
-3. What are the errors (if any) that you are receiving?
-4. Attach any screen shots that are relevant.
-5. Link to your Github repo or code snippet with latest code 
+
+3. What errors (if any) are you receiving?
+
+4. Attach any relevant screenshots.
+
+5. Link to your GitHub repo or code snippet with the latest code.
 
 #### Table of Contents
 
@@ -25,44 +30,48 @@ When posting a request for help, please include the following pieces of informat
 
 5. [Tagging](#tagging)
 
-6. [Message formatting](#message-formatting)
+6. [Message Formatting](#message-formatting)
 
 7. [Attachments](#attachments)
 
-8. [Code snippets](#code-snippets)
+8. [Code Snippets](#code-snippets)
 
 9. [Coding Bootcamp Channels](#coding-bootcamp-channels)
 
 10. [0 Channels](#0-channels)
 
-
-
 ### Channels
+
 Channels are the main source of group communication in Slack. There are two kinds: private and public.
 
-#### Public channels
-Public Channels are indicated by the `#` symbol. You will find them on the navbar located on the left-hand side of Slack (both online and on the desktop app). As inidicated by the name, everyone in your slack workspace will be able to see messages in these channels. 
+#### Public Channels
 
-Each channel will have its own name. In general, this name will be indicative of the content you will find in this channel. For example, in a channel called "general" you may post, well, general information or announcements. Things that aren't specific to a given topic, but still need to be shared nonetheless. In contrast, a "random" channel will have messages that are random--messages that may not even pertain to the project/organization your Slack team was created for. 
+The `#` symbol indicates public channels. You'll find them on the navbar located on the left-hand side of Slack (both online and on the desktop app). As the name inidicates, everyone in your Slack workspace can see messages in these channels. 
 
-#### Private channels
-Private channels are indicated by a sealed padlock to the left of their name. In terms of functionality, they can be used in just the same way as public channels. 
+Each channel has its own name. In general, this name will indicate the content found in the channel. For example, in a channel called "general" you may post general information or announcements&mdash;things that aren't specific to a given topic but still need to be shared nonetheless. In contrast, a "random" channel contains messages that are random&mdash;messages that may not even pertain to the project or organization your Slack team was created for.
 
-The key difference is that private channels contain a subset of the entire slack workspace members. They are private to only the users that have been invited to that channel. Public channels narrow the entire slack workspace to a specific topic. Private channels do the same, but they limit the amount of people in your workspace who can access the messages for that topic.
+#### Private Channels
 
-#### Joining channels
-When you join a slack workspace, you may not be a part of all of its channels, even the public ones. Joining those public channels is very easy though! 
+A sealed padlock to the left of the name indicates a private channel. You can use these channels in just the same way as public channels. 
 
-Click on the word `Channels` above where you see all the channels. There you will be able to search for channels by name. 
+However, private channels contain only a subset of the Slack workspace members. They are private to the users invited to that channel. While both public and private channels narrow the entire Slack workspace to a specific topic, private channels restrict who in your workspace can access the messages for that topic.
 
-For example, if you heard some of your classmates discussing the "resources" channel, but you don't see it on your own slack, click on the word channels in your left-hand-side navbar. Type "resources" into the search bar. It will eventually pop up in the suggestes channels as you type. Click on it, and you should be able to join the channel.
+#### Joining Channels
+
+When you join a Slack workspace, you may not be added to all of its channels, even the public ones. Joining those public channels is easy, though!
+
+Click on the word Channels above where you see all the channels. Then you can search for channels by name. 
+
+For example, if you heard some of your classmates discussing the "resources" channel, but you don't see it on your own Slack, click on the word channels in your left-hand-side navbar. Type "resources" into the search bar. It will eventually pop up in the suggestes channels as you type. Click on it, and you should be able to join the channel.
 
 ### Direct Messages 
+
 Direct messages are an alternative way to communicate on slack. Rather than messaging or reading messages from several people, perhaps you want to message one person, or just a handful of people. direct messages are the best way to do this. direct messages are viewable only to the people who have been messaged. If I send a direct message to Bob, only Bob and I can see that particular message history. 
 
 To send a direct message, click on the `+` sybmol found inside of a small circle next to the words `Direct Messages`. This will also be found in the navbar on the left-hand-side. 
 
 ### Threads
+
 Channels and direct messages can easily become cluttered, especially with larger slack teams. When people communicate a lot in one channel, messages sent just 10 minutes ago can easily be backlogged later in the message history. 
 
 Threads help a lot for cleaning this clutter up. They create a sort of sub-message history. As an analogy, think of posts on Facebook as individual messages. Comments on those posts are like threads. Just like you don't immediately see comments on a Facebook posts, you have to click on the thread of a message to be abe to see its history. 
@@ -70,11 +79,13 @@ Threads help a lot for cleaning this clutter up. They create a sort of sub-messa
 To create a thread, hover over a message until you see a set of icons. When you do, click on the chat bubble. Once you do so, you will be shown an input that, once submitted, will add to a thread for that message. 
 
 ### Reactions
+
 Reactions are a good way to acknowledge a message or, well, react to it without words.
 
 Reactions a reactions are just emojis that will be shown below a message when added. To add a reaction to a message, hover on a message, then click on the smily face with a plus on the top right of its face. 
 
 ### Tagging
+
 Tagging in slack works very similarly to several social media applications. To tag someone, use the `@` symbol (alternatively to manually typing this, you can click on the `@` symbol found in the input). Once you type in the `@` symbol, you'll be shown a list of names. Continue to type until you find the name you're looking for. 
 
 Tagging will directly notify whoever was tagged. Perhaps I have a question for an entire channel, but I have a feeling Sarah knows the answer. I can post the question in the channel, and then tag Sarah in it. Sarah will be notified immediately because she has been tagged in the message. Of course, this is just one among many uses for tagging others in a message.
@@ -82,20 +93,23 @@ Tagging will directly notify whoever was tagged. Perhaps I have a question for a
 You can also tag everyone in a message by using `@channel`. That will tag all members of the channel in the message. Use this sparingly.
 
 ### Message Formatting
-Slack supports a lot of markdown syntax. If you are familiar with markdown, try to use some in Slack and see what works. 
+
+Slack supports a lot of markdown syntax. If you're familiar with markdown, try to use some in Slack and see what works. 
 
 We'll cover some of the most important message formatting here.
 
 #### Highlighting
-To highlight words, enclose them in backticks (\` \`).  `This text is highlighted. It's a note of emphasis in my message I want to make sure people see.`
+
+To highlight words, enclose them in backticks (\` \`). `This text is highlighted. It's a note of emphasis in my message I want to make sure people see.`
 
 #### New lines
+
 Messages in slack do not have to be gigantice clumps of words. 
 
 You can create new lines in messages. Obviously, when you hit the enter key, you submit everything you've typed to that point as a message. However, if you hit (on Macs) the `option key` or (on PCs) the `alt key`, you create a new line. 
 
-
 #### Small code snippets
+
 We will cover code snippets in a bit, but say you want to quickly share just a couple lines of code. Code enclose between two sets of three backticks (\`\`\`) will create code snippets.
 
 For example:
